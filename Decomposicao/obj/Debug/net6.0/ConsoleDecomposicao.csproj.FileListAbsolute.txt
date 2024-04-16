@@ -1,0 +1,14 @@
+C:\Users\Igor\source\repos\Decomposicao\Decomposicao\bin\Debug\net6.0\ConsoleDecomposicao.exe
+C:\Users\Igor\source\repos\Decomposicao\Decomposicao\bin\Debug\net6.0\ConsoleDecomposicao.deps.json
+C:\Users\Igor\source\repos\Decomposicao\Decomposicao\bin\Debug\net6.0\ConsoleDecomposicao.runtimeconfig.json
+C:\Users\Igor\source\repos\Decomposicao\Decomposicao\bin\Debug\net6.0\ConsoleDecomposicao.dll
+C:\Users\Igor\source\repos\Decomposicao\Decomposicao\bin\Debug\net6.0\ConsoleDecomposicao.pdb
+C:\Users\Igor\source\repos\Decomposicao\Decomposicao\obj\Debug\net6.0\ConsoleDecomposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\source\repos\Decomposicao\Decomposicao\obj\Debug\net6.0\ConsoleDecomposicao.AssemblyInfoInputs.cache
+C:\Users\Igor\source\repos\Decomposicao\Decomposicao\obj\Debug\net6.0\ConsoleDecomposicao.AssemblyInfo.cs
+C:\Users\Igor\source\repos\Decomposicao\Decomposicao\obj\Debug\net6.0\ConsoleDecomposicao.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\Decomposicao\Decomposicao\obj\Debug\net6.0\ConsoleDecomposicao.dll
+C:\Users\Igor\source\repos\Decomposicao\Decomposicao\obj\Debug\net6.0\refint\ConsoleDecomposicao.dll
+C:\Users\Igor\source\repos\Decomposicao\Decomposicao\obj\Debug\net6.0\ConsoleDecomposicao.pdb
+C:\Users\Igor\source\repos\Decomposicao\Decomposicao\obj\Debug\net6.0\ConsoleDecomposicao.genruntimeconfig.cache
+C:\Users\Igor\source\repos\Decomposicao\Decomposicao\obj\Debug\net6.0\ref\ConsoleDecomposicao.dll
